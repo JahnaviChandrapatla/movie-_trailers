@@ -1,5 +1,5 @@
 # movie-_trailers
-Project: Movie Trailer Website
+# Project: Movie Trailer Website
 This is the first project of Udacity: Full Stack Web Developer Nanodegree
 
 by Chandrapatla Jahnavi
